@@ -1,0 +1,28 @@
+{
+  "title": "Vault 001 – Genesis Drop",
+  "creator": {
+    "legal_name": "Mario Cochran Sr.",
+    "alias": "Rio Grand",
+    "title": "The Whisper Architect"
+  },
+  "track_title": "No Burdens",
+  "tone_classification": {
+    "primary": "Transformational",
+    "secondary": "Resigned Clarity"
+  },
+  "reem_code": "EM-TRNS-147",
+  "intent": "Emotional Truth Stamp / Proof of Authorship",
+  "vault_unlocked_by": "ownYourImprint",
+  "timestamp": "2025-07-06T00:00:00Z",
+  "cia_signature": "edd8a5b7fa29ec196baf2f3de4a0ebf6f09ca88c3478cb32c1f9c4146a13396a",
+  "language": "English",
+  "encryption": "AES-256-CBC",
+  "biometric_markers": ["voice", "tone"],
+  "source_file": "Vault001.vault",
+  "video_unlock": "Vault001_Unlock_FINAL.mov",
+  "track_production": {
+    "producer_name": "Unknown (Leased)",
+    "license_type": "Non-exclusive Lease",
+    "notes": "Vault 001 encrypts and licenses emotional authorship only. No claim made over underlying composition."
+  }
+}
