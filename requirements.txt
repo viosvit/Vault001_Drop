@@ -1,0 +1,7 @@
+streamlit
+qrcode
+Pillow
+cryptography
+tqdm
+simpleaudio
+
